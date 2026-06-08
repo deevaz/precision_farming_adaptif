@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711528601248",
+    "firebase_url": "https://precision-farming-682c2-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "precision-farming-682c2",
+    "storage_bucket": "precision-farming-682c2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711528601248:android:14d7b4a2ada027d0345bc5",
+        "android_client_info": {
+          "package_name": "com.deevaz.kelolatani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711528601248-eff1q7e4i1l25rdut8qr53au38uavt63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDGG2osBqKtoQYjSY3ZPZIqG35dRj9lVE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711528601248-eff1q7e4i1l25rdut8qr53au38uavt63.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
